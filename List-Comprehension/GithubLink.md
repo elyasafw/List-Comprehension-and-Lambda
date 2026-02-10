@@ -1,0 +1,1 @@
+[תרגול List-Comprehension](https://github.com/elyasafw/List-Comprehension-and-Lambda/tree/main/List-Comprehension)
