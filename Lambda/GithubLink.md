@@ -1,0 +1,1 @@
+[תרגול Lambda](https://github.com/elyasafw/List-Comprehension-and-Lambda/tree/main/Lambda)
